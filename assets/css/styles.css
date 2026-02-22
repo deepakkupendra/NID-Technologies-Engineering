@@ -1,0 +1,55 @@
+/*
+ NID Technologies CSS Stylesheet
+ A comprehensive stylesheet with a blue-green color scheme and yellow accents.
+*/
+
+body {
+    background-color: #e0f7fa; /* Light blue background */
+    color: #004d40; /* Deep green text */
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #00796b; /* Darker blue-green header */
+    color: #ffeb3b; /* Yellow text */
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #004d40; /* Deep green navigation */
+    padding: 10px;
+}
+
+nav a {
+    color: #ffeb3b; /* Yellow links */
+    padding: 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #00796b; /* Highlight on hover */
+}
+
+h1, h2, h3 {
+    color: #00796b; /* Blue-green headings */
+}
+
+button {
+    background-color: #ffeb3b; /* Yellow button */
+    color: #004d40; /* Deep green text */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #c6ff00; /* Lighter yellow on hover */
+}
+
+footer {
+    background-color: #00796b; /* Darker blue-green footer */
+    color: #ffeb3b; /* Yellow text */
+    text-align: center;
+    padding: 20px;
+}
